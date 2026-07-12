@@ -1,0 +1,86 @@
+{
+  "Total_Projects": 300,
+  "Completed_Projects": 190,
+  "Delayed_Projects": 108,
+  "In_Progress_Projects": 2,
+  "Average_Completion_%": 99.56,
+  "Total_Budget": 35671321.34,
+  "Total_Actual_Cost": 37794542.5,
+  "Budget_Utilization_%": 105.95,
+  "Cost_Overrun_Total": 3278342.21,
+  "Projects_Over_Budget": 153,
+  "Average_Delay_Days": 18.0,
+  "Project_Success_Rate_%": 63.76,
+  "Task_Completion_Rate_%": 88.46,
+  "Average_Employee_Productivity_(tasks_per_employee)": 29.26,
+  "Risk_Distribution": {
+    "Medium": 113,
+    "Low": 111,
+    "High": 68,
+    "Not Assessed": 8
+  },
+  "Top_3_Performing_Teams": {
+    "Nova": 82.9,
+    "Comet": 75.0,
+    "Quantum": 75.0
+  },
+  "Top_3_Performing_Managers": {
+    "Sneha Reddy": 81.0,
+    "Ananya Rao": 71.4,
+    "Neha Kapoor": 69.7
+  },
+  "Top_5_Highest_Cost_Projects": [
+    {
+      "Project_ID": "PRJ0176",
+      "Project_Name": "Cloud Migration - Healthcare Client C #176",
+      "Actual_Cost": 424353.55
+    },
+    {
+      "Project_ID": "PRJ0077",
+      "Project_Name": "Internal Tool - BFSI Client F #77",
+      "Actual_Cost": 419029.12
+    },
+    {
+      "Project_ID": "PRJ0052",
+      "Project_Name": "Internal Tool - Logistics Client E #52",
+      "Actual_Cost": 414702.31
+    },
+    {
+      "Project_ID": "PRJ0120",
+      "Project_Name": "Dashboard - Logistics Client E #120",
+      "Actual_Cost": 392929.34
+    },
+    {
+      "Project_ID": "PRJ0293",
+      "Project_Name": "Internal Tool - BFSI Client F #293",
+      "Actual_Cost": 387637.14
+    }
+  ],
+  "Top_5_Most_Delayed_Projects": [
+    {
+      "Project_ID": "PRJ0145",
+      "Project_Name": "Data Pipeline - EdTech Client D #145",
+      "Delay_Days": 90
+    },
+    {
+      "Project_ID": "PRJ0220",
+      "Project_Name": "Dashboard - Mobile Apps #220",
+      "Delay_Days": 90
+    },
+    {
+      "Project_ID": "PRJ0242",
+      "Project_Name": "ML Model - BFSI Client F #242",
+      "Delay_Days": 90
+    },
+    {
+      "Project_ID": "PRJ0129",
+      "Project_Name": "Dashboard - BFSI Client F #129",
+      "Delay_Days": 89
+    },
+    {
+      "Project_ID": "PRJ0188",
+      "Project_Name": "Data Pipeline - Govt Client G #188",
+      "Delay_Days": 89
+    }
+  ]
+}

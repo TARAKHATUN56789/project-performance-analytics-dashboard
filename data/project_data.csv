@@ -1,0 +1,307 @@
+Project_ID,Project_Name,Project_Manager,Team_Name,Department,Project_Type,Start_Date,End_Date,Planned_End_Date,Status,Priority,Budget,Actual_Cost,Progress_%,Risk_Level,Client,Team_Size
+PRJ0001,Cloud Migration - Healthcare Client C #1,Karthik Iyer,Pulsar,AI/ML,Cloud Migration,2024-11-25,2025-07-04,2025-07-06,Completed,Medium,261125.59,254767.08,100.0,High,Healthcare Client C,14.0
+PRJ0002,Data Pipeline - Logistics Client E #2,Ananya Rao,Zenith,Cloud Infrastructure,Data Pipeline,2023-04-03,2023-12-18,2023-12-21,Completed,High,59601.78,52236.9,100.0,Medium,Logistics Client E,7.0
+PRJ0003,Cloud Migration - Retail Client B #3,Sneha Reddy,Quantum,AI/ML,Cloud Migration,2025-04-24,2025-09-23,2025-09-24,Completed,Medium,116823.8,110242.68,100.0,Low,Retail Client B,15.0
+PRJ0004,API Integration - BFSI Client F #4,Aditya Verma,Comet,Data & Analytics,API Integration,2023-04-03,2023-11-14,2023-11-21,Completed,Low,11881.16,10974.83,100.0,Medium,BFSI Client F,9.0
+PRJ0005,ML Model - Fintech Client A #5,Arjun Nair,Comet,Mobile Apps,ML Model,2024-04-27,2024-05-24,2024-06-02,Completed,High,256048.82,228977.66,100.0,Medium,Fintech Client A,12.0
+PRJ0006,Mobile App - BFSI Client F #6,Neha Kapoor,Titan,QA & Testing,Mobile App,2023-05-24,2023-07-03,2023-07-04,Completed,Low,24001.16,21528.08,100.0,High,BFSI Client F,3.0
+PRJ0007,Data Pipeline - BFSI Client F #7,Aditya Verma,Comet,Cloud Infrastructure,Data Pipeline,2024-02-29,2024-09-09,2024-09-13,Completed,High,80699.76,69122.84,100.0,Low,BFSI Client F,4.0
+PRJ0008,API Integration - Logistics Client E #8,Rohit Sharma,Pulsar,Data & Analytics,API Integration,2023-03-04,2023-09-14,2023-07-13,Delayed,Medium,37559.18,40814.41,100.0,Low,Logistics Client E,7.0
+PRJ0009,Data Pipeline - Healthcare Client C #9,Arjun Nair,Falcon,Engineering,Data Pipeline,2025-03-16,2025-09-03,2025-09-06,Completed,Medium,15468.2,14962.03,100.0,Low,Healthcare Client C,6.0
+PRJ0010,Cloud Migration - Customer Platforms #10,Suresh Kumar,Nova,Customer Platforms,Cloud Migration,2025-05-29,2025-08-03,2025-08-04,Completed,Medium,67124.78,65930.73,100.0,,Internal,
+PRJ0011,Web App - Logistics Client E #11,Suresh Kumar,Atlas,Customer Platforms,Web App,2023-06-28,2023-10-02,2023-10-03,Completed,High,11746.34,11736.16,100.0,Low,Logistics Client E,3.0
+PRJ0012,ML Model - Govt Client G #12,Rohit Sharma,Nimbus,AI/ML,ML Model,2024-09-21,2024-10-24,2024-11-01,Completed,Medium,266199.09,242327.97,100.0,Low,Govt Client G,14.0
+PRJ0013,Dashboard - Fintech Client A #13,Divya Pillai,Vega,Mobile Apps,Dashboard,2024-12-30,2025-12-09,2025-09-18,Delayed,Medium,26902.86,29844.24,100.0,High,Fintech Client A,10.0
+PRJ0014,Internal Tool - Logistics Client E #14,Aditya Verma,Quantum,AI/ML,Internal Tool,2024-09-03,2025-02-14,2025-02-15,Completed,Medium,80048.18,80738.13,100.0,Low,Logistics Client E,7.0
+PRJ0015,Internal Tool - Healthcare Client C #15,Aditya Verma,Quantum,Customer Platforms,Internal Tool,2024-04-07,2024-12-14,2024-12-20,Completed,High,63106.27,58890.64,100.0,Low,Healthcare Client C,6.0
+PRJ0016,Dashboard - Retail Client B #16,Arjun Nair,Titan,QA & Testing,Dashboard,2023-03-10,2023-06-23,2023-05-02,Delayed,High,12577.17,17289.93,100.0,Medium,Retail Client B,4.0
+PRJ0017,Internal Tool - Fintech Client A #17,Arjun Nair,Quantum,AI/ML,Internal Tool,2023-12-29,2024-09-07,2024-09-07,Completed,Low,294397.83,307257.05,100.0,High,Fintech Client A,13.0
+PRJ0018,Dashboard - Retail Client B #18,Karthik Iyer,Quantum,AI/ML,Dashboard,2023-08-18,2024-04-19,2024-04-20,Completed,Critical,36210.49,36301.78,100.0,Medium,Retail Client B,4.0
+PRJ0019,Cloud Migration - Customer Platforms #19,Suresh Kumar,Quantum,Customer Platforms,Cloud Migration,2023-01-30,2023-06-03,2023-04-16,Delayed,Medium,120134.5,143009.23,100.0,Low,Internal,7.0
+PRJ0020,Web App - Retail Client B #20,Rohit Sharma,Vega,QA & Testing,Web App,2023-04-04,2023-11-06,2023-11-11,Completed,High,65428.62,57674.14,100.0,Low,Retail Client B,11.0
+PRJ0021,Data Pipeline - AI/ML #21,Rohit Sharma,Nimbus,AI/ML,Data Pipeline,2023-06-11,2024-03-21,2024-01-20,Delayed,Low,25734.45,33835.02,100.0,Medium,Internal,12.0
+PRJ0022,API Integration - Fintech Client A #22,Meera Krishnan,Atlas,Cloud Infrastructure,API Integration,2024-03-16,2024-05-05,2024-05-13,Completed,Low,116193.08,114267.36,100.0,High,Fintech Client A,7.0
+PRJ0023,Cloud Migration - Healthcare Client C #23,Ananya Rao,Falcon,AI/ML,Cloud Migration,2023-08-05,2024-04-07,2024-03-18,Delayed,Medium,92878.5,97809.6,100.0,High,Healthcare Client C,5.0
+PRJ0024,API Integration - Healthcare Client C #24,Aditya Verma,Quantum,Mobile Apps,API Integration,2023-03-15,2023-08-07,2023-07-24,Delayed,Medium,27621.33,38527.45,100.0,Medium,Healthcare Client C,14.0
+PRJ0025,Mobile App - EdTech Client D #25,Divya Pillai,Comet,QA & Testing,Mobile App,2024-02-19,2024-03-18,2024-03-25,Completed,Medium,39624.67,40274.72,100.0,Low,EdTech Client D,8.0
+PRJ0026,Internal Tool - BFSI Client F #26,Karthik Iyer,Orion,Customer Platforms,Internal Tool,2024-06-20,2024-08-06,2024-08-09,Completed,Critical,189198.55,173421.99,100.0,Medium,BFSI Client F,9.0
+PRJ0027,API Integration - Healthcare Client C #27,Meera Krishnan,Quantum,Engineering,API Integration,2023-12-26,2024-08-21,2024-07-29,Delayed,Critical,256696.06,295813.28,100.0,High,Healthcare Client C,13.0
+PRJ0028,Dashboard - Retail Client B #28,Rohit Sharma,Comet,Customer Platforms,Dashboard,2024-04-20,2024-11-20,2024-11-29,Completed,High,221726.09,216980.79,100.0,High,Retail Client B,12.0
+PRJ0029,Mobile App - Govt Client G #29,Priya Menon,Pulsar,QA & Testing,Mobile App,2024-04-25,2024-09-27,2024-09-15,Delayed,Low,103543.31,123296.98,100.0,Low,Govt Client G,13.0
+PRJ0030,Mobile App - EdTech Client D #30,Arjun Nair,Falcon,Engineering,Mobile App,2024-10-22,2025-06-23,2025-06-30,Completed,Low,60580.77,58525.01,100.0,Low,EdTech Client D,4.0
+PRJ0031,API Integration - Healthcare Client C #31,Suresh Kumar,Zenith,Engineering,API Integration,2024-09-11,2025-02-27,2025-02-09,Delayed,Medium,49167.85,67575.64,100.0,Medium,Healthcare Client C,11.0
+PRJ0032,Web App - Retail Client B #32,Neha Kapoor,Quantum,Engineering,Web App,2023-09-11,2024-03-31,2024-04-09,Completed,High,237926.79,209791.77,100.0,Low,Retail Client B,10.0
+PRJ0033,API Integration - Mobile Apps #33,Neha Kapoor,Pulsar,Mobile Apps,API Integration,2023-03-09,2023-06-27,2023-07-01,Completed,Medium,55332.62,55041.94,100.0,Low,Internal,4.0
+PRJ0034,Data Pipeline - Fintech Client A #34,Arjun Nair,Nova,Customer Platforms,Data Pipeline,2023-12-25,2024-04-03,2024-04-12,Completed,Low,221845.51,220019.01,100.0,Medium,Fintech Client A,13.0
+PRJ0035,Internal Tool - Fintech Client A #35,Priya Menon,Pulsar,QA & Testing,Internal Tool,2024-06-04,2024-11-05,2024-10-04,Delayed,Low,28019.24,33250.23,100.0,High,Fintech Client A,3.0
+PRJ0036,Mobile App - EdTech Client D #36,Rohit Sharma,Nova,Data & Analytics,Mobile App,2024-06-03,2025-01-16,2025-01-16,Completed,High,222285.32,218369.95,100.0,Low,EdTech Client D,11.0
+PRJ0037,Data Pipeline - Retail Client B #37,Priya Menon,Vega,AI/ML,Data Pipeline,2025-05-01,2025-11-17,2025-11-24,Completed,Low,230535.47,197969.68,100.0,Medium,Retail Client B,15.0
+PRJ0038,ML Model - Govt Client G #38,Sneha Reddy,Nimbus,Mobile Apps,ML Model,2024-06-30,2024-09-26,2024-09-29,Completed,High,162461.06,150043.87,100.0,Medium,Govt Client G,7.0
+PRJ0039,Data Pipeline - BFSI Client F #39,Divya Pillai,Titan,Mobile Apps,Data Pipeline,2025-04-16,2025-07-06,2025-07-06,Completed,High,223608.89,218742.22,100.0,Low,BFSI Client F,15.0
+PRJ0040,Cloud Migration - Fintech Client A #40,Meera Krishnan,Aurora,Engineering,Cloud Migration,2023-03-27,2023-11-05,2023-11-07,Completed,Medium,36371.0,36960.55,100.0,Low,Fintech Client A,5.0
+PRJ0041,Internal Tool - Customer Platforms #41,Arjun Nair,Zenith,Customer Platforms,Internal Tool,2023-02-24,2023-07-04,2023-07-05,Completed,Critical,105612.26,97689.5,100.0,Medium,Internal,
+PRJ0042,Data Pipeline - Logistics Client E #42,Neha Kapoor,Aurora,Customer Platforms,Data Pipeline,2023-05-21,2023-06-27,2023-06-29,Completed,Medium,154700.78,154974.33,100.0,Low,Logistics Client E,7.0
+PRJ0043,Data Pipeline - Healthcare Client C #43,Sneha Reddy,Falcon,Engineering,Data Pipeline,2024-07-15,2025-04-07,2025-04-11,Completed,Medium,210059.39,188534.19,100.0,Low,Healthcare Client C,14.0
+PRJ0044,Mobile App - Fintech Client A #44,Vikram Malhotra,Nimbus,QA & Testing,Mobile App,2025-05-06,,2026-01-22,In Progress,High,147249.98,168862.63,51.2,High,Fintech Client A,10.0
+PRJ0045,Data Pipeline - BFSI Client F #45,Karthik Iyer,Pulsar,AI/ML,Data Pipeline,2024-11-11,2025-08-11,2025-05-31,Delayed,Critical,52160.58,66120.46,100.0,High,BFSI Client F,4.0
+PRJ0046,Internal Tool - Engineering #46,Vikram Malhotra,Vega,Engineering,Internal Tool,2024-01-18,2024-04-16,2024-04-21,Completed,Low,19230.0,17272.87,100.0,Medium,Internal,14.0
+PRJ0047,Web App - Retail Client B #47,Arjun Nair,Aurora,AI/ML,Web App,2023-12-27,2024-08-16,2024-06-13,Delayed,High,157685.63,227434.35,100.0,High,Retail Client B,8.0
+PRJ0048,Web App - Govt Client G #48,Aditya Verma,Orion,Data & Analytics,Web App,2023-10-28,2024-01-12,2024-01-17,Completed,High,57586.54,59698.48,100.0,Low,Govt Client G,3.0
+PRJ0049,ML Model - AI/ML #49,Sneha Reddy,Zenith,AI/ML,ML Model,2023-10-20,2024-02-14,2024-02-18,Completed,Medium,31492.39,27552.53,100.0,Low,Internal,15.0
+PRJ0050,Data Pipeline - Logistics Client E #50,Divya Pillai,Zenith,QA & Testing,Data Pipeline,2024-05-23,2024-12-12,2024-12-16,Completed,Low,94489.79,95456.38,100.0,Low,Logistics Client E,10.0
+PRJ0051,API Integration - EdTech Client D #51,Meera Krishnan,Nova,AI/ML,API Integration,2023-04-16,2023-08-26,2023-06-05,Delayed,Low,129609.14,173295.87,100.0,Medium,EdTech Client D,8.0
+PRJ0052,Internal Tool - Logistics Client E #52,Aditya Verma,Falcon,Mobile Apps,Internal Tool,2023-10-09,2024-07-14,2024-04-19,Delayed,Medium,342027.01,414702.31,100.0,Medium,Logistics Client E,15.0
+PRJ0053,Web App - Govt Client G #53,Priya Menon,Falcon,Data & Analytics,Web App,2023-05-10,2023-08-19,2023-06-26,Delayed,Critical,113435.12,162188.04,100.0,Medium,Govt Client G,6.0
+PRJ0054,Mobile App - Govt Client G #54,Arjun Nair,Pulsar,Mobile Apps,Mobile App,2024-08-10,2024-11-23,2024-10-14,Delayed,Medium,103838.34,119397.96,100.0,High,Govt Client G,11.0
+PRJ0055,Cloud Migration - Fintech Client A #55,Divya Pillai,Quantum,Mobile Apps,Cloud Migration,2025-03-04,2025-06-04,2025-06-08,Completed,Medium,157699.94,155933.09,100.0,Low,Fintech Client A,14.0
+PRJ0056,Dashboard - Retail Client B #56,Vikram Malhotra,Orion,Data & Analytics,Dashboard,2023-03-31,2023-11-13,2023-11-23,Completed,Medium,302300.81,277961.08,100.0,Low,Retail Client B,13.0
+PRJ0057,API Integration - Retail Client B #57,Aditya Verma,Nova,Cloud Infrastructure,API Integration,2024-06-04,2024-08-27,2024-08-30,Completed,Critical,94632.19,95396.31,100.0,Medium,Retail Client B,
+PRJ0058,Mobile App - Retail Client B #58,Meera Krishnan,Zenith,Cloud Infrastructure,Mobile App,2023-03-09,2023-06-18,2023-06-26,Completed,High,215916.17,201268.21,100.0,Medium,Retail Client B,9.0
+PRJ0059,Dashboard - Fintech Client A #59,Neha Kapoor,Pulsar,Data & Analytics,Dashboard,2024-04-22,2024-11-04,2024-11-12,Completed,High,98162.24,95998.63,100.0,Low,Fintech Client A,11.0
+PRJ0060,Data Pipeline - Fintech Client A #60,Ananya Rao,Quantum,Mobile Apps,Data Pipeline,2023-11-08,2024-01-14,2024-01-19,Completed,Critical,42105.99,43769.03,100.0,Low,Fintech Client A,5.0
+PRJ0061,Data Pipeline - EdTech Client D #61,Karthik Iyer,Titan,Engineering,Data Pipeline,2024-10-02,2025-01-15,2025-01-17,Completed,High,159239.94,154201.86,100.0,Medium,EdTech Client D,12.0
+PRJ0062,Web App - Logistics Client E #62,Suresh Kumar,Aurora,AI/ML,Web App,2025-04-25,,2026-01-01,In Progress,Medium,8604.38,4694.21,71.7,Low,Logistics Client E,3.0
+PRJ0063,Cloud Migration - Govt Client G #63,Ananya Rao,Comet,AI/ML,Cloud Migration,2024-10-19,2025-01-28,2025-02-03,Completed,Medium,66321.92,60318.91,100.0,Low,Govt Client G,10.0
+PRJ0064,ML Model - Govt Client G #64,Vikram Malhotra,Vega,Mobile Apps,ML Model,2023-12-15,2024-06-12,2024-06-17,Completed,High,40946.99,42792.67,100.0,Medium,Govt Client G,5.0
+PRJ0065,Dashboard - Healthcare Client C #65,Arjun Nair,Orion,AI/ML,Dashboard,2023-05-06,2023-09-23,2023-08-12,Delayed,Low,67021.34,95716.79,100.0,Medium,Healthcare Client C,10.0
+PRJ0066,ML Model - Logistics Client E #66,Arjun Nair,Nova,Customer Platforms,ML Model,2025-02-20,2025-04-27,2025-05-01,Completed,Medium,239072.96,226993.57,100.0,Low,Logistics Client E,10.0
+PRJ0067,Web App - Logistics Client E #67,Karthik Iyer,Atlas,Mobile Apps,Web App,2023-02-21,2023-05-24,2023-06-03,Completed,Low,147429.32,139190.58,100.0,Low,Logistics Client E,10.0
+PRJ0068,Internal Tool - Logistics Client E #68,Sneha Reddy,Nova,Mobile Apps,Internal Tool,2024-01-10,2024-02-15,2024-02-20,Completed,Critical,19589.64,18818.68,100.0,Low,Logistics Client E,9.0
+PRJ0069,Data Pipeline - Fintech Client A #69,Sneha Reddy,Quantum,Customer Platforms,Data Pipeline,2023-04-10,2023-10-08,2023-08-18,Delayed,Medium,154261.09,208558.84,100.0,High,Fintech Client A,8.0
+PRJ0070,Data Pipeline - AI/ML #70,Ananya Rao,Falcon,AI/ML,Data Pipeline,2024-12-31,2025-04-16,2025-04-25,Completed,Medium,178441.73,183549.86,100.0,High,Internal,15.0
+PRJ0071,API Integration - EdTech Client D #71,Divya Pillai,Nova,Cloud Infrastructure,API Integration,2024-06-03,2025-01-27,2025-01-31,Completed,Critical,145681.98,137666.34,100.0,Low,EdTech Client D,
+PRJ0072,Web App - EdTech Client D #72,Suresh Kumar,Vega,Engineering,Web App,2024-09-03,2025-01-23,2025-02-01,Completed,Medium,162698.38,157089.66,100.0,Low,EdTech Client D,7.0
+PRJ0073,Data Pipeline - BFSI Client F #73,Neha Kapoor,Quantum,Data & Analytics,Data Pipeline,2025-04-21,2025-11-10,2025-11-11,Completed,Medium,10356.73,9198.4,100.0,Low,BFSI Client F,6.0
+PRJ0074,Dashboard - BFSI Client F #74,Karthik Iyer,Aurora,Mobile Apps,Dashboard,2025-05-18,2026-01-22,2025-12-22,Delayed,High,34054.57,49353.56,79.6,High,BFSI Client F,14.0
+PRJ0075,API Integration - Logistics Client E #75,Meera Krishnan,Zenith,Data & Analytics,API Integration,2024-11-23,2025-07-04,2025-07-08,Completed,Low,233200.18,226674.15,100.0,Low,Logistics Client E,14.0
+PRJ0076,Cloud Migration - EdTech Client D #76,Karthik Iyer,Titan,AI/ML,Cloud Migration,2024-12-22,2025-05-03,2025-03-15,Delayed,Critical,241006.22,307088.93,100.0,Medium,EdTech Client D,14.0
+PRJ0077,Internal Tool - BFSI Client F #77,Suresh Kumar,Orion,Cloud Infrastructure,Internal Tool,2025-04-18,2025-09-24,2025-08-14,Delayed,Low,292592.46,419029.12,100.0,Medium,BFSI Client F,15.0
+PRJ0078,ML Model - Govt Client G #78,Aditya Verma,Titan,QA & Testing,ML Model,2023-07-26,2024-03-19,2024-03-23,Completed,Critical,79596.58,69842.38,100.0,Low,Govt Client G,11.0
+PRJ0079,ML Model - Healthcare Client C #79,Neha Kapoor,Falcon,Data & Analytics,ML Model,2023-02-23,2023-04-09,2023-04-19,Completed,High,77370.78,77692.12,100.0,Medium,Healthcare Client C,
+PRJ0080,Dashboard - Govt Client G #80,Neha Kapoor,Vega,Data & Analytics,Dashboard,2024-10-28,2025-04-14,2025-01-17,Delayed,Medium,347550.34,373152.65,100.0,High,Govt Client G,15.0
+PRJ0081,Data Pipeline - Data & Analytics #81,Aditya Verma,Quantum,Data & Analytics,Data Pipeline,2024-03-03,2025-01-07,2024-11-13,Delayed,Medium,112401.1,153448.21,100.0,Medium,Internal,5.0
+PRJ0082,Cloud Migration - Customer Platforms #82,Ananya Rao,Titan,Customer Platforms,Cloud Migration,2024-08-04,2025-04-08,2025-02-04,Delayed,High,89417.85,129266.0,100.0,High,Internal,4.0
+PRJ0083,ML Model - EdTech Client D #83,Vikram Malhotra,Quantum,Data & Analytics,ML Model,2025-04-08,2025-06-01,2025-06-05,Completed,Low,37898.94,37660.92,100.0,Medium,EdTech Client D,
+PRJ0084,Data Pipeline - Healthcare Client C #84,Neha Kapoor,Nimbus,Cloud Infrastructure,Data Pipeline,2024-09-17,2025-05-16,2025-05-24,Completed,Medium,281215.79,257477.05,100.0,Low,Healthcare Client C,13.0
+PRJ0085,Web App - Healthcare Client C #85,Arjun Nair,Zenith,Data & Analytics,Web App,2023-09-25,2024-03-18,2024-01-31,Delayed,Low,67649.5,79202.57,100.0,,Healthcare Client C,6.0
+PRJ0086,Web App - Healthcare Client C #86,Aditya Verma,Pulsar,QA & Testing,Web App,2024-11-14,2025-01-05,2025-01-13,Completed,High,80565.46,83354.73,100.0,Low,Healthcare Client C,10.0
+PRJ0087,API Integration - EdTech Client D #87,Neha Kapoor,Orion,QA & Testing,API Integration,2024-09-21,2024-12-09,2024-12-16,Completed,Medium,138115.75,138053.18,100.0,Low,EdTech Client D,6.0
+PRJ0088,ML Model - Healthcare Client C #88,Meera Krishnan,Zenith,AI/ML,ML Model,2024-11-27,2025-09-08,2025-07-08,Delayed,High,252985.28,319082.55,100.0,Medium,Healthcare Client C,12.0
+PRJ0089,Data Pipeline - Healthcare Client C #89,Meera Krishnan,Falcon,Engineering,Data Pipeline,2023-06-18,2023-09-30,2023-10-09,Completed,High,122785.66,116372.02,100.0,Low,Healthcare Client C,11.0
+PRJ0090,Dashboard - BFSI Client F #90,Priya Menon,Zenith,Engineering,Dashboard,2024-07-31,2024-09-13,2024-09-13,Completed,Critical,127981.71,118919.29,100.0,Low,BFSI Client F,11.0
+PRJ0091,API Integration - BFSI Client F #91,Ananya Rao,Orion,AI/ML,API Integration,2024-12-18,2025-02-01,2025-02-02,Completed,Medium,262513.29,274911.12,100.0,Low,BFSI Client F,11.0
+PRJ0092,API Integration - BFSI Client F #92,Neha Kapoor,Nova,Data & Analytics,API Integration,2024-01-27,2024-06-09,2024-06-19,Completed,Critical,86758.63,88919.85,100.0,Medium,BFSI Client F,9.0
+PRJ0093,Data Pipeline - BFSI Client F #93,Meera Krishnan,Nova,Engineering,Data Pipeline,2025-01-15,2025-04-05,2025-04-12,Completed,Medium,55176.38,54332.18,100.0,Medium,BFSI Client F,3.0
+PRJ0094,API Integration - Govt Client G #94,Karthik Iyer,Atlas,Customer Platforms,API Integration,2023-06-08,2023-09-15,2023-09-16,Completed,High,135362.63,115930.44,100.0,Medium,Govt Client G,6.0
+PRJ0095,Mobile App - Fintech Client A #95,Karthik Iyer,Atlas,Engineering,Mobile App,2024-08-31,2024-10-08,2024-10-08,Completed,Medium,147490.53,132586.14,100.0,Low,Fintech Client A,10.0
+PRJ0096,Cloud Migration - Retail Client B #96,Ananya Rao,Atlas,AI/ML,Cloud Migration,2023-08-28,2024-04-12,2024-04-22,Completed,Low,199507.53,202236.09,100.0,Medium,Retail Client B,14.0
+PRJ0097,Cloud Migration - BFSI Client F #97,Karthik Iyer,Quantum,QA & Testing,Cloud Migration,2023-10-09,2023-11-21,2023-11-23,Completed,Critical,250975.62,244751.08,100.0,Medium,BFSI Client F,11.0
+PRJ0098,API Integration - BFSI Client F #98,Neha Kapoor,Comet,Cloud Infrastructure,API Integration,2024-12-14,2025-07-11,2025-04-29,Delayed,Medium,39888.04,49437.54,100.0,Medium,BFSI Client F,9.0
+PRJ0099,Internal Tool - QA & Testing #99,Vikram Malhotra,Nova,QA & Testing,Internal Tool,2024-03-02,2024-09-21,2024-08-21,Delayed,High,44925.47,53106.63,100.0,High,Internal,11.0
+PRJ0100,Web App - Healthcare Client C #100,Meera Krishnan,Orion,Cloud Infrastructure,Web App,2023-10-02,2024-02-19,2024-02-05,Delayed,Critical,193885.86,218173.03,100.0,High,Healthcare Client C,13.0
+PRJ0101,API Integration - Healthcare Client C #101,Vikram Malhotra,Atlas,AI/ML,API Integration,2023-11-07,2024-08-15,2024-07-26,Delayed,High,17614.74,23757.91,100.0,Low,Healthcare Client C,3.0
+PRJ0102,Internal Tool - Healthcare Client C #102,Aditya Verma,Nimbus,QA & Testing,Internal Tool,2023-09-03,2024-02-13,2024-02-21,Completed,Medium,150694.55,147642.12,100.0,Medium,Healthcare Client C,8.0
+PRJ0103,API Integration - Govt Client G #103,Rohit Sharma,Zenith,Mobile Apps,API Integration,2023-07-28,2023-11-26,2023-11-29,Completed,High,84163.15,84015.9,100.0,Low,Govt Client G,
+PRJ0104,Cloud Migration - BFSI Client F #104,Aditya Verma,Nimbus,AI/ML,Cloud Migration,2023-06-06,2023-08-22,2023-08-25,Completed,Low,50323.43,47800.23,100.0,Medium,BFSI Client F,8.0
+PRJ0105,Dashboard - Govt Client G #105,Aditya Verma,Zenith,Cloud Infrastructure,Dashboard,2023-06-22,2024-04-08,2024-01-25,Delayed,Low,136500.78,169988.04,100.0,Low,Govt Client G,15.0
+PRJ0106,Mobile App - QA & Testing #106,Meera Krishnan,Falcon,QA & Testing,Mobile App,2025-04-17,2025-10-25,2025-11-04,Completed,Medium,55739.38,49958.46,100.0,,Internal,3.0
+PRJ0107,Dashboard - AI/ML #107,Arjun Nair,Zenith,AI/ML,Dashboard,2024-11-06,2025-04-09,2025-04-09,Completed,High,3456.25,2949.37,100.0,Low,Internal,3.0
+PRJ0108,Data Pipeline - BFSI Client F #108,Meera Krishnan,Falcon,Cloud Infrastructure,Data Pipeline,2023-04-20,2024-04-03,2024-01-10,Delayed,High,52243.46,65857.19,100.0,Medium,BFSI Client F,4.0
+PRJ0109,Dashboard - BFSI Client F #109,Arjun Nair,Orion,Mobile Apps,Dashboard,2024-08-01,2024-10-31,2024-11-01,Completed,Medium,86726.04,85056.32,100.0,Medium,BFSI Client F,14.0
+PRJ0110,Dashboard - BFSI Client F #110,Divya Pillai,Vega,Engineering,Dashboard,2023-02-27,2023-11-07,2023-09-08,Delayed,High,51496.32,67355.28,100.0,High,BFSI Client F,3.0
+PRJ0111,ML Model - Healthcare Client C #111,Ananya Rao,Quantum,Engineering,ML Model,2024-12-09,2025-09-06,2025-08-23,Delayed,High,143238.08,189614.49,100.0,High,Healthcare Client C,12.0
+PRJ0112,Web App - Logistics Client E #112,Priya Menon,Falcon,QA & Testing,Web App,2023-08-01,2024-01-22,2024-01-28,Completed,Low,91509.26,94783.0,100.0,Low,Logistics Client E,5.0
+PRJ0113,Internal Tool - Logistics Client E #113,Neha Kapoor,Vega,AI/ML,Internal Tool,2025-02-12,2025-09-18,2025-09-19,Completed,Medium,95907.28,91127.12,100.0,Low,Logistics Client E,5.0
+PRJ0114,Internal Tool - Logistics Client E #114,Rohit Sharma,Atlas,Mobile Apps,Internal Tool,2025-03-03,2025-06-17,2025-06-24,Completed,Critical,46754.48,44328.89,100.0,Low,Logistics Client E,3.0
+PRJ0115,Mobile App - BFSI Client F #115,Neha Kapoor,Nova,Mobile Apps,Mobile App,2025-03-01,2025-09-04,2025-09-05,Completed,Critical,135486.88,122425.19,100.0,Medium,BFSI Client F,7.0
+PRJ0116,API Integration - Logistics Client E #116,Divya Pillai,Aurora,Data & Analytics,API Integration,2023-04-20,2023-06-08,2023-06-12,Completed,High,68064.26,59246.28,100.0,Low,Logistics Client E,3.0
+PRJ0117,Mobile App - BFSI Client F #117,Meera Krishnan,Quantum,AI/ML,Mobile App,2023-01-27,2023-03-15,2023-03-20,Completed,High,109976.44,112477.7,100.0,Low,BFSI Client F,
+PRJ0118,Data Pipeline - Healthcare Client C #118,Aditya Verma,Orion,Customer Platforms,Data Pipeline,2024-12-02,2025-06-15,2025-04-08,Delayed,Medium,20966.61,23238.84,100.0,High,Healthcare Client C,5.0
+PRJ0119,Cloud Migration - Logistics Client E #119,Rohit Sharma,Zenith,Cloud Infrastructure,Cloud Migration,2023-09-10,2024-04-04,2024-04-11,Completed,Medium,161244.93,140507.94,100.0,Low,Logistics Client E,13.0
+PRJ0120,Dashboard - Logistics Client E #120,Divya Pillai,Nimbus,Cloud Infrastructure,Dashboard,2023-12-09,2024-06-12,2024-04-27,Delayed,High,304293.39,392929.34,100.0,Medium,Logistics Client E,13.0
+PRJ0121,Dashboard - EdTech Client D #121,Arjun Nair,Vega,Data & Analytics,Dashboard,2024-08-12,2025-05-24,2025-03-30,Delayed,Critical,50972.3,60963.19,100.0,High,EdTech Client D,6.0
+PRJ0122,Dashboard - AI/ML #122,Neha Kapoor,Nova,AI/ML,Dashboard,2024-12-26,2025-03-18,2025-03-19,Completed,Critical,193467.67,196136.19,100.0,Low,Internal,10.0
+PRJ0123,ML Model - EdTech Client D #123,Neha Kapoor,Nova,Mobile Apps,ML Model,2023-09-16,2024-03-31,2024-04-01,Completed,Low,87252.18,82000.76,100.0,High,EdTech Client D,5.0
+PRJ0124,Web App - BFSI Client F #124,Aditya Verma,Quantum,AI/ML,Web App,2025-03-20,2025-07-10,2025-07-20,Completed,Medium,302351.49,312292.88,100.0,High,BFSI Client F,14.0
+PRJ0125,Internal Tool - QA & Testing #125,Priya Menon,Pulsar,QA & Testing,Internal Tool,2025-02-09,2025-07-11,2025-06-03,Delayed,Critical,163507.16,186202.02,100.0,High,Internal,15.0
+PRJ0126,API Integration - Govt Client G #126,Karthik Iyer,Nimbus,QA & Testing,API Integration,2024-02-05,2024-06-30,2024-07-02,Completed,Medium,249446.64,229239.84,100.0,Low,Govt Client G,
+PRJ0127,API Integration - Retail Client B #127,Rohit Sharma,Orion,Mobile Apps,API Integration,2023-11-16,2024-03-07,2024-03-12,Completed,Critical,190382.1,179955.35,100.0,Low,Retail Client B,10.0
+PRJ0128,Mobile App - Cloud Infrastructure #128,Sneha Reddy,Orion,Cloud Infrastructure,Mobile App,2023-01-24,2023-09-26,2023-09-28,Completed,Medium,127226.46,131804.64,100.0,Medium,Internal,8.0
+PRJ0129,Dashboard - BFSI Client F #129,Arjun Nair,Nova,AI/ML,Dashboard,2023-08-26,2024-07-14,2024-04-16,Delayed,Critical,139360.39,170417.38,100.0,High,BFSI Client F,
+PRJ0130,Internal Tool - BFSI Client F #130,Suresh Kumar,Zenith,Data & Analytics,Internal Tool,2023-01-05,2023-08-02,2023-08-03,Completed,High,34398.26,33210.47,100.0,Low,BFSI Client F,6.0
+PRJ0131,Mobile App - Govt Client G #131,Karthik Iyer,Pulsar,Cloud Infrastructure,Mobile App,2023-09-26,2024-04-05,2024-04-14,Completed,High,131374.45,121879.74,100.0,High,Govt Client G,10.0
+PRJ0132,Cloud Migration - Retail Client B #132,Suresh Kumar,Zenith,Cloud Infrastructure,Cloud Migration,2024-09-21,2025-04-25,2025-03-21,Delayed,Low,65834.13,77167.61,100.0,Medium,Retail Client B,4.0
+PRJ0133,Internal Tool - Retail Client B #133,Divya Pillai,Vega,AI/ML,Internal Tool,2024-03-09,2024-05-15,2024-05-25,Completed,Critical,156165.38,161809.04,100.0,Medium,Retail Client B,10.0
+PRJ0134,Dashboard - Logistics Client E #134,Priya Menon,Nova,Cloud Infrastructure,Dashboard,2024-09-26,2024-11-05,2024-11-08,Completed,High,183138.92,185527.64,100.0,Medium,Logistics Client E,8.0
+PRJ0135,Internal Tool - Govt Client G #135,Neha Kapoor,Vega,Mobile Apps,Internal Tool,2024-12-28,2025-09-07,2025-08-30,Delayed,Medium,122400.89,167487.55,100.0,Medium,Govt Client G,10.0
+PRJ0136,Dashboard - Retail Client B #136,Sneha Reddy,Quantum,Data & Analytics,Dashboard,2024-08-02,2025-03-09,2025-03-10,Completed,High,279242.25,269341.1,100.0,Medium,Retail Client B,15.0
+PRJ0137,ML Model - Govt Client G #137,Ananya Rao,Quantum,Cloud Infrastructure,ML Model,2024-03-11,2024-05-02,2024-05-06,Completed,Critical,281282.77,288304.14,100.0,High,Govt Client G,14.0
+PRJ0138,ML Model - Fintech Client A #138,Vikram Malhotra,Orion,Customer Platforms,ML Model,2023-08-03,2024-06-18,2024-03-27,Delayed,Medium,203311.49,264936.88,100.0,Medium,Fintech Client A,14.0
+PRJ0139,Cloud Migration - Logistics Client E #139,Ananya Rao,Atlas,Data & Analytics,Cloud Migration,2024-09-03,2025-02-13,2025-02-17,Completed,High,42220.17,40723.34,100.0,Medium,Logistics Client E,5.0
+PRJ0140,Web App - BFSI Client F #140,Priya Menon,Orion,QA & Testing,Web App,2023-10-11,2024-06-15,2024-06-18,Completed,High,50939.56,44788.54,100.0,Medium,BFSI Client F,13.0
+PRJ0141,Data Pipeline - Govt Client G #141,Divya Pillai,Comet,Customer Platforms,Data Pipeline,2024-08-14,2025-03-07,2025-02-21,Delayed,Critical,108077.86,140874.21,100.0,Medium,Govt Client G,7.0
+PRJ0142,Dashboard - Logistics Client E #142,Sneha Reddy,Aurora,AI/ML,Dashboard,2024-05-14,2024-09-03,2024-09-04,Completed,Medium,12682.57,12634.2,100.0,Low,Logistics Client E,12.0
+PRJ0143,ML Model - BFSI Client F #143,Meera Krishnan,Orion,Cloud Infrastructure,ML Model,2024-03-15,2024-12-22,2024-11-11,Delayed,High,74270.66,88018.31,100.0,Low,BFSI Client F,6.0
+PRJ0144,Web App - Mobile Apps #144,Neha Kapoor,Pulsar,Mobile Apps,Web App,2023-04-12,2023-11-13,2023-10-19,Delayed,Medium,303662.25,372446.12,100.0,Medium,Internal,
+PRJ0145,Data Pipeline - EdTech Client D #145,Priya Menon,Aurora,Data & Analytics,Data Pipeline,2023-10-08,2024-02-28,2023-11-30,Delayed,Medium,120770.18,170469.54,100.0,Medium,EdTech Client D,13.0
+PRJ0146,Internal Tool - Healthcare Client C #146,Aditya Verma,Aurora,Cloud Infrastructure,Internal Tool,2024-11-02,2025-01-08,2024-12-25,Delayed,Low,44649.14,49251.57,100.0,Low,Healthcare Client C,14.0
+PRJ0147,Mobile App - Logistics Client E #147,Aditya Verma,Falcon,Engineering,Mobile App,2025-05-30,2025-12-08,2025-10-15,Delayed,High,56560.4,61409.46,100.0,Medium,Logistics Client E,14.0
+PRJ0148,Data Pipeline - BFSI Client F #148,Priya Menon,Titan,Cloud Infrastructure,Data Pipeline,2024-10-18,2025-04-30,2025-05-09,Completed,Low,12867.33,12610.04,100.0,Low,BFSI Client F,5.0
+PRJ0149,Dashboard - BFSI Client F #149,Priya Menon,Aurora,QA & Testing,Dashboard,2025-05-30,2025-09-12,2025-08-23,Delayed,High,86486.55,111206.96,100.0,Medium,BFSI Client F,4.0
+PRJ0150,Mobile App - EdTech Client D #150,Karthik Iyer,Nova,Cloud Infrastructure,Mobile App,2023-09-12,2024-03-01,2024-03-01,Completed,High,177602.17,181079.34,100.0,Low,EdTech Client D,12.0
+PRJ0151,Internal Tool - Healthcare Client C #151,Meera Krishnan,Nimbus,AI/ML,Internal Tool,2023-10-30,2024-05-09,2024-05-12,Completed,Low,57082.31,54169.83,100.0,Low,Healthcare Client C,3.0
+PRJ0152,API Integration - AI/ML #152,Meera Krishnan,Orion,AI/ML,API Integration,2023-11-21,2024-01-18,2024-01-23,Completed,Medium,187188.5,179564.55,100.0,Medium,Internal,9.0
+PRJ0153,Web App - Fintech Client A #153,Ananya Rao,Orion,Customer Platforms,Web App,2023-09-26,2023-12-14,2023-12-20,Completed,High,66657.97,63413.2,100.0,High,Fintech Client A,3.0
+PRJ0154,Mobile App - BFSI Client F #154,Aditya Verma,Vega,Mobile Apps,Mobile App,2024-10-17,2025-05-16,2025-04-02,Delayed,Medium,166859.91,180477.12,100.0,Medium,BFSI Client F,11.0
+PRJ0155,Mobile App - BFSI Client F #155,Arjun Nair,Quantum,Data & Analytics,Mobile App,2023-11-14,2024-06-09,2024-06-09,Completed,High,160101.38,143914.48,100.0,Low,BFSI Client F,9.0
+PRJ0156,Data Pipeline - EdTech Client D #156,Ananya Rao,Nimbus,AI/ML,Data Pipeline,2023-05-03,2023-08-12,2023-06-05,Delayed,Medium,58182.2,83270.74,100.0,Low,EdTech Client D,14.0
+PRJ0157,Data Pipeline - Logistics Client E #157,Priya Menon,Titan,QA & Testing,Data Pipeline,2025-02-06,2025-10-01,2025-09-23,Delayed,Low,125002.67,148003.71,100.0,High,Logistics Client E,7.0
+PRJ0158,Dashboard - Fintech Client A #158,Suresh Kumar,Aurora,Cloud Infrastructure,Dashboard,2024-04-11,2024-09-16,2024-09-18,Completed,High,18200.8,16809.12,100.0,Medium,Fintech Client A,8.0
+PRJ0159,ML Model - Fintech Client A #159,Aditya Verma,Comet,AI/ML,ML Model,2025-01-28,2025-07-04,2025-07-07,Completed,Medium,6038.62,5188.36,100.0,Low,Fintech Client A,3.0
+PRJ0160,ML Model - BFSI Client F #160,Meera Krishnan,Falcon,Data & Analytics,ML Model,2023-11-26,2024-03-12,2024-02-27,Delayed,Medium,198581.94,253909.73,100.0,Medium,BFSI Client F,9.0
+PRJ0161,Internal Tool - Engineering #161,Karthik Iyer,Nova,Engineering,Internal Tool,2023-03-12,2023-11-17,2023-11-21,Completed,Medium,209187.41,191502.74,100.0,,Internal,10.0
+PRJ0162,ML Model - EdTech Client D #162,Suresh Kumar,Titan,Data & Analytics,ML Model,2024-04-20,2024-08-19,2024-08-22,Completed,High,280232.74,279249.87,100.0,Low,EdTech Client D,12.0
+PRJ0163,ML Model - Data & Analytics #163,Divya Pillai,Falcon,Data & Analytics,ML Model,2024-07-08,2024-10-29,2024-11-03,Completed,Critical,264032.63,224504.94,100.0,Medium,Internal,13.0
+PRJ0164,ML Model - Healthcare Client C #164,Rohit Sharma,Titan,QA & Testing,ML Model,2024-03-05,2024-09-16,2024-08-07,Delayed,High,70106.59,76220.63,100.0,High,Healthcare Client C,3.0
+PRJ0165,Dashboard - Logistics Client E #165,Aditya Verma,Vega,AI/ML,Dashboard,2025-02-04,2025-05-21,2025-03-27,Delayed,Medium,38379.25,41446.99,100.0,Medium,Logistics Client E,12.0
+PRJ0166,API Integration - EdTech Client D #166,Sneha Reddy,Atlas,Data & Analytics,API Integration,2025-03-31,2025-10-09,2025-08-08,Delayed,Medium,281871.75,326628.01,100.0,High,EdTech Client D,14.0
+PRJ0167,Mobile App - Retail Client B #167,Rohit Sharma,Nimbus,Customer Platforms,Mobile App,2023-06-18,2023-12-30,2023-11-10,Delayed,Low,82227.66,118066.91,100.0,Low,Retail Client B,10.0
+PRJ0168,Cloud Migration - Retail Client B #168,Rohit Sharma,Orion,Cloud Infrastructure,Cloud Migration,2025-04-26,2026-01-07,2025-11-22,Delayed,Low,208263.4,277919.79,65.2,Low,Retail Client B,14.0
+PRJ0169,Data Pipeline - EdTech Client D #169,Sneha Reddy,Comet,Engineering,Data Pipeline,2023-02-01,2023-06-13,2023-06-14,Completed,Critical,137869.37,129929.29,100.0,Medium,EdTech Client D,10.0
+PRJ0170,ML Model - Retail Client B #170,Karthik Iyer,Falcon,Engineering,ML Model,2025-04-23,2025-09-01,2025-09-02,Completed,Medium,134276.49,129773.5,100.0,Low,Retail Client B,8.0
+PRJ0171,Data Pipeline - Govt Client G #171,Karthik Iyer,Orion,Engineering,Data Pipeline,2023-04-05,2024-02-24,2023-12-22,Delayed,Medium,129384.71,138474.64,100.0,Medium,Govt Client G,15.0
+PRJ0172,Internal Tool - QA & Testing #172,Vikram Malhotra,Vega,QA & Testing,Internal Tool,2024-11-30,2025-04-14,2025-04-18,Completed,Medium,45703.47,41406.01,100.0,Low,Internal,5.0
+PRJ0173,Dashboard - EdTech Client D #173,Karthik Iyer,Nimbus,AI/ML,Dashboard,2024-02-26,2024-12-31,2024-11-07,Delayed,Medium,132194.83,146061.33,100.0,Medium,EdTech Client D,11.0
+PRJ0174,Internal Tool - AI/ML #174,Neha Kapoor,Atlas,AI/ML,Internal Tool,2025-03-11,2025-10-04,2025-10-09,Completed,High,96261.94,99393.86,100.0,Low,Internal,8.0
+PRJ0175,Web App - Healthcare Client C #175,Arjun Nair,Falcon,Data & Analytics,Web App,2025-04-10,2025-11-17,2025-11-25,Completed,Medium,16433.19,15142.96,100.0,Medium,Healthcare Client C,7.0
+PRJ0176,Cloud Migration - Healthcare Client C #176,Karthik Iyer,Orion,Data & Analytics,Cloud Migration,2024-06-30,2025-03-28,2025-02-23,Delayed,Medium,331454.52,424353.55,100.0,High,Healthcare Client C,15.0
+PRJ0177,API Integration - Healthcare Client C #177,Priya Menon,Nova,Customer Platforms,API Integration,2025-04-05,2025-11-04,2025-11-09,Completed,High,129528.17,134646.05,100.0,Low,Healthcare Client C,14.0
+PRJ0178,Data Pipeline - EdTech Client D #178,Meera Krishnan,Zenith,Data & Analytics,Data Pipeline,2024-05-17,2024-06-25,2024-06-25,Completed,Low,9167.45,8757.57,100.0,Medium,EdTech Client D,
+PRJ0179,API Integration - Retail Client B #179,Arjun Nair,Nova,Data & Analytics,API Integration,2023-03-02,2023-04-05,2023-04-06,Completed,Low,72460.06,73858.26,100.0,Medium,Retail Client B,5.0
+PRJ0180,Mobile App - BFSI Client F #180,Neha Kapoor,Aurora,Cloud Infrastructure,Mobile App,2023-12-11,2024-05-26,2024-03-27,Delayed,Critical,33107.11,45248.71,100.0,High,BFSI Client F,8.0
+PRJ0181,ML Model - Logistics Client E #181,Meera Krishnan,Aurora,Data & Analytics,ML Model,2024-11-12,2025-05-07,2025-05-11,Completed,Medium,48514.17,42472.68,100.0,Medium,Logistics Client E,5.0
+PRJ0182,Data Pipeline - AI/ML #182,Suresh Kumar,Vega,AI/ML,Data Pipeline,2024-09-08,2025-03-15,2024-12-28,Delayed,Medium,348798.43,380763.75,100.0,Medium,Internal,15.0
+PRJ0183,Data Pipeline - Logistics Client E #183,Arjun Nair,Atlas,Engineering,Data Pipeline,2024-10-13,2025-06-21,2025-06-26,Completed,Critical,79592.89,74763.67,100.0,Low,Logistics Client E,4.0
+PRJ0184,Web App - Fintech Client A #184,Sneha Reddy,Pulsar,Engineering,Web App,2023-02-19,2023-06-21,2023-06-27,Completed,Critical,178494.43,169322.74,100.0,High,Fintech Client A,10.0
+PRJ0185,Data Pipeline - Healthcare Client C #185,Suresh Kumar,Zenith,Engineering,Data Pipeline,2024-04-07,2024-07-09,2024-05-25,Delayed,Medium,306788.06,354171.81,100.0,Low,Healthcare Client C,15.0
+PRJ0186,Mobile App - Fintech Client A #186,Aditya Verma,Nova,Mobile Apps,Mobile App,2023-12-13,2024-06-06,2024-06-12,Completed,Low,258530.42,268480.86,100.0,Low,Fintech Client A,12.0
+PRJ0187,ML Model - Logistics Client E #187,Rohit Sharma,Falcon,Data & Analytics,ML Model,2023-07-14,2023-11-17,2023-11-25,Completed,Low,192424.2,173769.24,100.0,Medium,Logistics Client E,14.0
+PRJ0188,Data Pipeline - Govt Client G #188,Suresh Kumar,Vega,Engineering,Data Pipeline,2023-02-25,2023-09-24,2023-06-27,Delayed,Low,32504.81,42257.44,100.0,Medium,Govt Client G,3.0
+PRJ0189,Mobile App - EdTech Client D #189,Neha Kapoor,Nova,Data & Analytics,Mobile App,2024-04-29,2024-12-24,2024-12-31,Completed,High,32368.51,33306.4,100.0,Low,EdTech Client D,4.0
+PRJ0190,API Integration - BFSI Client F #190,Arjun Nair,Nova,Mobile Apps,API Integration,2023-07-11,2023-11-29,2023-12-02,Completed,High,21167.42,21536.07,100.0,Low,BFSI Client F,3.0
+PRJ0191,API Integration - Fintech Client A #191,Rohit Sharma,Comet,QA & Testing,API Integration,2025-04-07,2025-09-14,2025-09-22,Completed,Low,209936.05,181006.18,100.0,Medium,Fintech Client A,9.0
+PRJ0192,Dashboard - Healthcare Client C #192,Vikram Malhotra,Comet,AI/ML,Dashboard,2023-11-03,2023-12-15,2023-12-23,Completed,High,195874.88,188871.18,100.0,Medium,Healthcare Client C,9.0
+PRJ0193,Data Pipeline - Govt Client G #193,Rohit Sharma,Nova,AI/ML,Data Pipeline,2023-06-21,2023-09-28,2023-09-13,Delayed,High,81490.5,117779.2,100.0,High,Govt Client G,15.0
+PRJ0194,API Integration - EdTech Client D #194,Suresh Kumar,Nova,QA & Testing,API Integration,2025-01-14,2025-09-29,2025-10-05,Completed,Medium,38119.12,36610.02,100.0,Low,EdTech Client D,15.0
+PRJ0195,Mobile App - BFSI Client F #195,Aditya Verma,Falcon,Customer Platforms,Mobile App,2024-02-29,2024-05-06,2024-05-07,Completed,High,70158.3,72612.83,100.0,Medium,BFSI Client F,5.0
+PRJ0196,Cloud Migration - BFSI Client F #196,Arjun Nair,Quantum,Cloud Infrastructure,Cloud Migration,2024-01-28,2024-08-10,2024-08-12,Completed,Critical,141565.35,128128.37,100.0,Low,BFSI Client F,10.0
+PRJ0197,API Integration - BFSI Client F #197,Ananya Rao,Vega,QA & Testing,API Integration,2024-12-08,2025-03-03,2025-03-08,Completed,Medium,54456.74,46508.59,100.0,Medium,BFSI Client F,3.0
+PRJ0198,ML Model - Fintech Client A #198,Aditya Verma,Zenith,Cloud Infrastructure,ML Model,2023-05-18,2023-08-28,2023-09-01,Completed,Medium,156681.62,156017.27,100.0,High,Fintech Client A,14.0
+PRJ0199,API Integration - Govt Client G #199,Divya Pillai,Atlas,Mobile Apps,API Integration,2025-04-20,2025-08-11,2025-06-03,Delayed,Critical,211247.07,255895.0,100.0,High,Govt Client G,11.0
+PRJ0200,ML Model - Healthcare Client C #200,Priya Menon,Falcon,AI/ML,ML Model,2025-05-07,2025-08-10,2025-06-20,Delayed,High,10563.8,14069.43,100.0,High,Healthcare Client C,6.0
+PRJ0201,Web App - Fintech Client A #201,Neha Kapoor,Vega,AI/ML,Web App,2023-09-05,2024-03-13,2024-01-08,Delayed,Low,146630.03,188383.24,100.0,High,Fintech Client A,10.0
+PRJ0202,Cloud Migration - Fintech Client A #202,Aditya Verma,Aurora,Cloud Infrastructure,Cloud Migration,2023-01-29,2023-06-03,2023-06-06,Completed,Medium,14240.61,14545.68,100.0,Medium,Fintech Client A,3.0
+PRJ0203,Web App - Cloud Infrastructure #203,Divya Pillai,Comet,Cloud Infrastructure,Web App,2024-04-30,2025-01-18,2025-01-18,Completed,Medium,79447.73,71086.17,100.0,Medium,Internal,5.0
+PRJ0204,Internal Tool - EdTech Client D #204,Neha Kapoor,Aurora,QA & Testing,Internal Tool,2024-01-21,2024-11-07,2024-09-25,Delayed,Medium,92455.64,122122.66,100.0,Low,EdTech Client D,8.0
+PRJ0205,Cloud Migration - Logistics Client E #205,Meera Krishnan,Falcon,Engineering,Cloud Migration,2023-11-02,2024-07-04,2024-05-25,Delayed,Critical,48319.93,63117.32,100.0,Low,Logistics Client E,4.0
+PRJ0206,Data Pipeline - Healthcare Client C #206,Sneha Reddy,Comet,QA & Testing,Data Pipeline,2024-06-13,2025-01-15,2025-01-24,Completed,Medium,130156.81,121152.52,100.0,High,Healthcare Client C,6.0
+PRJ0207,Cloud Migration - EdTech Client D #207,Vikram Malhotra,Comet,Engineering,Cloud Migration,2024-03-04,2024-07-06,2024-07-15,Completed,Critical,161503.54,163635.86,100.0,Medium,EdTech Client D,9.0
+PRJ0208,API Integration - Govt Client G #208,Neha Kapoor,Quantum,QA & Testing,API Integration,2024-06-03,2024-09-15,2024-09-17,Completed,High,101673.45,92396.44,100.0,Low,Govt Client G,5.0
+PRJ0209,Mobile App - Logistics Client E #209,Priya Menon,Quantum,QA & Testing,Mobile App,2023-08-16,2024-01-30,2023-12-14,Delayed,Medium,108700.97,130296.91,100.0,Medium,Logistics Client E,6.0
+PRJ0210,Dashboard - Fintech Client A #210,Ananya Rao,Zenith,Engineering,Dashboard,2023-07-19,2023-12-20,2023-12-24,Completed,High,83809.79,78162.81,100.0,Medium,Fintech Client A,4.0
+PRJ0211,Data Pipeline - Govt Client G #211,Divya Pillai,Pulsar,Data & Analytics,Data Pipeline,2023-11-20,2024-09-12,2024-07-27,Delayed,High,72074.88,93871.27,100.0,High,Govt Client G,14.0
+PRJ0212,Data Pipeline - Healthcare Client C #212,Sneha Reddy,Zenith,Engineering,Data Pipeline,2024-08-13,2025-03-25,2025-03-26,Completed,Low,61301.37,53692.72,100.0,Low,Healthcare Client C,5.0
+PRJ0213,Web App - Mobile Apps #213,Divya Pillai,Zenith,Mobile Apps,Web App,2024-06-30,2024-11-04,2024-09-19,Delayed,Low,134138.65,181454.6,100.0,,Internal,14.0
+PRJ0214,ML Model - Healthcare Client C #214,Aditya Verma,Comet,Engineering,ML Model,2024-12-11,2025-10-30,2025-08-22,Delayed,Medium,65424.98,84101.74,100.0,High,Healthcare Client C,8.0
+PRJ0215,Internal Tool - Logistics Client E #215,Vikram Malhotra,Titan,Cloud Infrastructure,Internal Tool,2024-12-04,2025-02-03,2025-02-06,Completed,Medium,191289.56,168904.22,100.0,Low,Logistics Client E,8.0
+PRJ0216,ML Model - Retail Client B #216,Karthik Iyer,Atlas,Engineering,ML Model,2025-01-21,2025-05-24,2025-02-25,Delayed,Low,151278.86,206775.64,100.0,High,Retail Client B,12.0
+PRJ0217,Web App - Customer Platforms #217,Suresh Kumar,Quantum,Customer Platforms,Web App,2024-11-08,2025-01-23,2025-01-04,Delayed,High,262999.88,319994.64,100.0,Medium,Internal,13.0
+PRJ0218,Web App - Healthcare Client C #218,Priya Menon,Aurora,Mobile Apps,Web App,2023-11-05,2024-03-12,2024-03-21,Completed,Low,43192.97,41945.85,100.0,Medium,Healthcare Client C,13.0
+PRJ0219,Cloud Migration - Fintech Client A #219,Aditya Verma,Quantum,Engineering,Cloud Migration,2023-04-27,2023-12-09,2023-12-13,Completed,Low,49791.99,50603.59,100.0,Medium,Fintech Client A,4.0
+PRJ0220,Dashboard - Mobile Apps #220,Priya Menon,Titan,Mobile Apps,Dashboard,2023-08-01,2024-05-23,2024-02-23,Delayed,High,86038.83,93403.85,100.0,Low,Internal,10.0
+PRJ0221,Mobile App - Fintech Client A #221,Rohit Sharma,Nova,Mobile Apps,Mobile App,2023-09-20,2024-03-28,2024-04-01,Completed,Low,69031.67,65086.89,100.0,High,Fintech Client A,6.0
+PRJ0222,Internal Tool - Logistics Client E #222,Arjun Nair,Titan,Engineering,Internal Tool,2025-01-26,2025-03-26,2025-03-26,Completed,Medium,82314.62,83993.82,100.0,Low,Logistics Client E,4.0
+PRJ0223,Mobile App - EdTech Client D #223,Suresh Kumar,Zenith,Cloud Infrastructure,Mobile App,2024-01-17,2024-09-04,2024-09-11,Completed,High,41647.97,37665.03,100.0,High,EdTech Client D,8.0
+PRJ0224,Mobile App - Retail Client B #224,Neha Kapoor,Vega,Customer Platforms,Mobile App,2023-05-16,2023-12-08,2023-12-10,Completed,Critical,32884.14,28633.62,100.0,Medium,Retail Client B,14.0
+PRJ0225,Internal Tool - Retail Client B #225,Vikram Malhotra,Comet,AI/ML,Internal Tool,2025-03-08,2025-07-05,2025-07-07,Completed,Medium,19953.28,18888.09,100.0,Low,Retail Client B,12.0
+PRJ0226,API Integration - EdTech Client D #226,Rohit Sharma,Falcon,Mobile Apps,API Integration,2023-01-13,2023-08-02,2023-08-11,Completed,High,169920.56,152044.4,100.0,Medium,EdTech Client D,13.0
+PRJ0227,Internal Tool - Fintech Client A #227,Aditya Verma,Quantum,AI/ML,Internal Tool,2024-11-08,2025-06-02,2025-06-12,Completed,Medium,72506.3,67211.55,100.0,High,Fintech Client A,6.0
+PRJ0228,Dashboard - Retail Client B #228,Ananya Rao,Falcon,AI/ML,Dashboard,2025-05-22,2025-10-22,2025-10-25,Completed,Low,13609.5,12468.74,100.0,Low,Retail Client B,5.0
+PRJ0229,ML Model - BFSI Client F #229,Divya Pillai,Comet,AI/ML,ML Model,2023-03-22,2023-08-09,2023-08-16,Completed,Low,194290.1,182518.77,100.0,Low,BFSI Client F,10.0
+PRJ0230,Internal Tool - BFSI Client F #230,Rohit Sharma,Falcon,QA & Testing,Internal Tool,2023-02-06,2023-10-18,2023-07-28,Delayed,Low,11042.94,15849.58,100.0,Low,BFSI Client F,11.0
+PRJ0231,API Integration - Govt Client G #231,Neha Kapoor,Atlas,AI/ML,API Integration,2024-01-08,2024-08-31,2024-09-05,Completed,Low,59344.62,57091.31,100.0,Medium,Govt Client G,3.0
+PRJ0232,Mobile App - Govt Client G #232,Aditya Verma,Pulsar,QA & Testing,Mobile App,2023-04-10,2024-02-14,2023-11-20,Delayed,High,79302.39,113860.27,100.0,High,Govt Client G,13.0
+PRJ0233,Dashboard - Retail Client B #233,Ananya Rao,Orion,QA & Testing,Dashboard,2023-05-24,2024-01-15,2024-01-19,Completed,Critical,253088.51,246045.15,100.0,Low,Retail Client B,14.0
+PRJ0234,API Integration - Healthcare Client C #234,Vikram Malhotra,Atlas,Mobile Apps,API Integration,2023-04-21,2023-11-20,2023-11-30,Completed,Medium,18625.57,18025.12,100.0,Medium,Healthcare Client C,9.0
+PRJ0235,Dashboard - Retail Client B #235,Meera Krishnan,Nimbus,QA & Testing,Dashboard,2023-01-05,2023-06-10,2023-06-19,Completed,Medium,29640.06,28056.88,100.0,High,Retail Client B,14.0
+PRJ0236,Data Pipeline - Retail Client B #236,Suresh Kumar,Aurora,Data & Analytics,Data Pipeline,2023-04-17,2023-08-16,2023-08-24,Completed,Low,192563.26,197623.46,100.0,High,Retail Client B,13.0
+PRJ0237,API Integration - BFSI Client F #237,Sneha Reddy,Atlas,QA & Testing,API Integration,2023-10-29,2024-03-14,2024-03-22,Completed,Low,61013.28,55508.82,100.0,Medium,BFSI Client F,15.0
+PRJ0238,ML Model - Healthcare Client C #238,Meera Krishnan,Aurora,QA & Testing,ML Model,2023-08-03,2024-02-29,2024-02-08,Delayed,Medium,107566.6,155168.5,100.0,High,Healthcare Client C,14.0
+PRJ0239,Mobile App - Logistics Client E #239,Aditya Verma,Quantum,AI/ML,Mobile App,2025-02-18,2025-06-08,2025-06-18,Completed,Low,132533.59,131476.6,100.0,Medium,Logistics Client E,11.0
+PRJ0240,Mobile App - AI/ML #240,Divya Pillai,Titan,AI/ML,Mobile App,2023-01-26,2023-07-11,2023-06-02,Delayed,Critical,11102.47,14989.16,100.0,High,Internal,5.0
+PRJ0241,ML Model - EdTech Client D #241,Ananya Rao,Nova,Cloud Infrastructure,ML Model,2025-02-10,2025-07-19,2025-07-28,Completed,High,27749.09,28404.16,100.0,Medium,EdTech Client D,3.0
+PRJ0242,ML Model - BFSI Client F #242,Meera Krishnan,Comet,QA & Testing,ML Model,2024-06-07,2025-04-23,2025-01-23,Delayed,Medium,290593.5,310583.99,100.0,Medium,BFSI Client F,15.0
+PRJ0243,Web App - Customer Platforms #243,Arjun Nair,Comet,Customer Platforms,Web App,2025-01-31,2025-04-28,2025-05-05,Completed,High,91637.51,93103.41,100.0,High,Internal,6.0
+PRJ0244,ML Model - Healthcare Client C #244,Suresh Kumar,Pulsar,QA & Testing,ML Model,2023-10-29,2024-04-17,2024-03-21,Delayed,Low,118097.13,158726.3,100.0,Medium,Healthcare Client C,5.0
+PRJ0245,Data Pipeline - Retail Client B #245,Sneha Reddy,Quantum,Cloud Infrastructure,Data Pipeline,2024-08-21,2025-04-22,2025-04-24,Completed,Critical,7908.87,6785.72,100.0,Medium,Retail Client B,7.0
+PRJ0246,Dashboard - EdTech Client D #246,Suresh Kumar,Comet,Customer Platforms,Dashboard,2025-03-19,2025-09-06,2025-09-11,Completed,Medium,101595.65,97031.87,100.0,Medium,EdTech Client D,11.0
+PRJ0247,Internal Tool - BFSI Client F #247,Priya Menon,Quantum,Customer Platforms,Internal Tool,2023-04-05,2023-07-28,2023-08-02,Completed,Medium,127908.75,117952.28,100.0,Low,BFSI Client F,6.0
+PRJ0248,Mobile App - AI/ML #248,Meera Krishnan,Zenith,AI/ML,Mobile App,2024-11-15,2025-03-04,2025-03-13,Completed,Medium,65280.01,58671.42,100.0,Low,Internal,10.0
+PRJ0249,Cloud Migration - EdTech Client D #249,Divya Pillai,Orion,Mobile Apps,Cloud Migration,2023-01-26,2023-12-25,2023-10-16,Delayed,High,218993.59,268972.91,100.0,Low,EdTech Client D,11.0
+PRJ0250,Mobile App - Fintech Client A #250,Meera Krishnan,Pulsar,Data & Analytics,Mobile App,2023-06-21,2024-01-31,2024-02-03,Completed,Critical,145901.07,143576.43,100.0,High,Fintech Client A,11.0
+PRJ0251,Mobile App - BFSI Client F #251,Karthik Iyer,Orion,Mobile Apps,Mobile App,2025-02-03,2025-08-27,2025-08-27,Completed,High,7731.59,6707.19,100.0,Low,BFSI Client F,5.0
+PRJ0252,Cloud Migration - Healthcare Client C #252,Suresh Kumar,Orion,AI/ML,Cloud Migration,2024-02-22,2024-06-30,2024-06-30,Completed,Medium,154949.97,143778.14,100.0,,Healthcare Client C,10.0
+PRJ0253,Mobile App - QA & Testing #253,Rohit Sharma,Nimbus,QA & Testing,Mobile App,2024-01-02,2024-09-21,2024-09-25,Completed,High,37852.29,36766.43,100.0,Low,Internal,11.0
+PRJ0254,Dashboard - Mobile Apps #254,Neha Kapoor,Vega,Mobile Apps,Dashboard,2023-06-10,2023-11-15,2023-11-23,Completed,Critical,24820.64,22561.85,100.0,Medium,Internal,6.0
+PRJ0255,Web App - Logistics Client E #255,Neha Kapoor,Aurora,Customer Platforms,Web App,2024-07-20,2025-06-16,2025-03-30,Delayed,Critical,46767.59,60267.61,100.0,High,Logistics Client E,11.0
+PRJ0256,ML Model - Logistics Client E #256,Aditya Verma,Atlas,Cloud Infrastructure,ML Model,2024-02-27,2024-12-12,2024-11-14,Delayed,High,267586.2,304597.44,100.0,High,Logistics Client E,13.0
+PRJ0257,Dashboard - Data & Analytics #257,Suresh Kumar,Comet,Data & Analytics,Dashboard,2024-10-22,2025-04-27,2025-04-10,Delayed,Critical,30740.05,34704.5,100.0,High,Internal,4.0
+PRJ0258,Mobile App - Healthcare Client C #258,Neha Kapoor,Nova,Cloud Infrastructure,Mobile App,2023-10-19,2024-06-25,2024-04-24,Delayed,Low,86810.91,102553.06,100.0,Low,Healthcare Client C,4.0
+PRJ0259,API Integration - Logistics Client E #259,Suresh Kumar,Nimbus,Data & Analytics,API Integration,2024-03-14,2024-05-16,2024-05-26,Completed,Medium,24611.82,23066.81,100.0,Medium,Logistics Client E,3.0
+PRJ0260,Dashboard - Govt Client G #260,Vikram Malhotra,Pulsar,QA & Testing,Dashboard,2024-01-03,2024-11-13,2024-08-18,Delayed,Critical,85402.39,110395.49,100.0,Medium,Govt Client G,7.0
+PRJ0261,Mobile App - EdTech Client D #261,Karthik Iyer,Quantum,Data & Analytics,Mobile App,2025-01-14,2025-02-23,2025-03-04,Completed,High,61621.52,59512.84,100.0,Low,EdTech Client D,3.0
+PRJ0262,Data Pipeline - Govt Client G #262,Sneha Reddy,Quantum,Engineering,Data Pipeline,2024-01-10,2024-05-15,2024-05-19,Completed,Critical,129018.38,113120.25,100.0,Medium,Govt Client G,6.0
+PRJ0263,Data Pipeline - Healthcare Client C #263,Ananya Rao,Quantum,Cloud Infrastructure,Data Pipeline,2025-02-14,2025-10-10,2025-07-25,Delayed,High,56315.35,73985.15,100.0,High,Healthcare Client C,5.0
+PRJ0264,Dashboard - Healthcare Client C #264,Ananya Rao,Pulsar,Mobile Apps,Dashboard,2023-08-26,2023-11-11,2023-10-11,Delayed,Medium,66479.06,83574.42,100.0,Medium,Healthcare Client C,7.0
+PRJ0265,Mobile App - Logistics Client E #265,Ananya Rao,Falcon,Mobile Apps,Mobile App,2024-12-21,2025-05-29,2025-06-02,Completed,Low,261064.5,252116.85,100.0,Medium,Logistics Client E,13.0
+PRJ0266,Cloud Migration - Fintech Client A #266,Suresh Kumar,Pulsar,Mobile Apps,Cloud Migration,2024-01-21,2024-11-27,2024-10-09,Delayed,High,77259.31,96168.11,100.0,High,Fintech Client A,6.0
+PRJ0267,ML Model - Retail Client B #267,Vikram Malhotra,Nova,AI/ML,ML Model,2023-03-20,2023-09-22,2023-08-28,Delayed,Critical,96962.04,115858.89,100.0,High,Retail Client B,13.0
+PRJ0268,Dashboard - Fintech Client A #268,Arjun Nair,Vega,Data & Analytics,Dashboard,2024-11-22,2025-06-19,2025-04-23,Delayed,High,58461.91,61909.9,100.0,High,Fintech Client A,10.0
+PRJ0269,Data Pipeline - Data & Analytics #269,Neha Kapoor,Nova,Data & Analytics,Data Pipeline,2023-02-27,2023-05-04,2023-05-10,Completed,High,155513.95,150828.55,100.0,,Internal,7.0
+PRJ0270,Mobile App - EdTech Client D #270,Neha Kapoor,Aurora,QA & Testing,Mobile App,2023-08-10,2023-12-30,2024-01-01,Completed,Medium,286006.13,255653.09,100.0,Low,EdTech Client D,12.0
+PRJ0271,Data Pipeline - EdTech Client D #271,Suresh Kumar,Nova,AI/ML,Data Pipeline,2025-01-11,2025-08-03,2025-08-04,Completed,Critical,177712.76,159224.01,100.0,Medium,EdTech Client D,8.0
+PRJ0272,Data Pipeline - BFSI Client F #272,Meera Krishnan,Quantum,Data & Analytics,Data Pipeline,2024-09-12,2024-11-05,2024-11-05,Completed,Medium,59724.96,61250.96,100.0,Medium,BFSI Client F,5.0
+PRJ0273,Web App - Retail Client B #273,Neha Kapoor,Zenith,Engineering,Web App,2025-03-04,2025-09-23,2025-09-23,Completed,High,142017.55,140530.42,100.0,Low,Retail Client B,13.0
+PRJ0274,Internal Tool - Fintech Client A #274,Arjun Nair,Vega,Mobile Apps,Internal Tool,2023-05-18,2023-08-20,2023-08-21,Completed,Low,186147.54,168771.29,100.0,Medium,Fintech Client A,10.0
+PRJ0275,Mobile App - Data & Analytics #275,Aditya Verma,Falcon,Data & Analytics,Mobile App,2024-06-16,2024-07-12,2024-07-17,Completed,Medium,144491.05,134632.28,100.0,Medium,Internal,9.0
+PRJ0276,API Integration - BFSI Client F #276,Sneha Reddy,Titan,AI/ML,API Integration,2024-09-18,2025-03-12,2024-12-27,Delayed,Medium,131838.79,179764.22,100.0,High,BFSI Client F,13.0
+PRJ0277,API Integration - EdTech Client D #277,Sneha Reddy,Zenith,AI/ML,API Integration,2025-03-03,2025-09-19,2025-09-29,Completed,High,161306.96,140952.79,100.0,Medium,EdTech Client D,9.0
+PRJ0278,API Integration - BFSI Client F #278,Karthik Iyer,Orion,Data & Analytics,API Integration,2025-03-31,2025-09-15,2025-09-17,Completed,Critical,204387.84,189635.28,100.0,Low,BFSI Client F,12.0
+PRJ0279,Mobile App - BFSI Client F #279,Vikram Malhotra,Nova,Customer Platforms,Mobile App,2023-03-07,2023-06-06,2023-06-12,Completed,Low,57175.25,59241.39,100.0,Low,BFSI Client F,6.0
+PRJ0280,Data Pipeline - Cloud Infrastructure #280,Suresh Kumar,Aurora,Cloud Infrastructure,Data Pipeline,2024-10-17,2025-03-14,2025-03-22,Completed,High,12463.39,11306.8,100.0,Medium,Internal,10.0
+PRJ0281,Web App - Retail Client B #281,Karthik Iyer,Aurora,AI/ML,Web App,2024-01-04,2024-05-14,2024-04-04,Delayed,High,13085.89,17821.27,100.0,Medium,Retail Client B,13.0
+PRJ0282,Mobile App - AI/ML #282,Meera Krishnan,Atlas,AI/ML,Mobile App,2023-04-03,2023-09-11,2023-09-20,Completed,Low,123908.33,113948.46,100.0,Low,Internal,7.0
+PRJ0283,Web App - BFSI Client F #283,Vikram Malhotra,Atlas,AI/ML,Web App,2023-09-25,2023-11-30,2023-12-08,Completed,Medium,113791.29,103419.26,100.0,Medium,BFSI Client F,9.0
+PRJ0284,Dashboard - EdTech Client D #284,Suresh Kumar,Quantum,Cloud Infrastructure,Dashboard,2024-01-22,2024-07-07,2024-07-14,Completed,Medium,187092.45,184532.83,100.0,Low,EdTech Client D,10.0
+PRJ0285,Internal Tool - Fintech Client A #285,Sneha Reddy,Orion,Mobile Apps,Internal Tool,2024-10-10,2025-07-13,2025-05-29,Delayed,Critical,99413.99,120785.05,100.0,Medium,Fintech Client A,6.0
+PRJ0286,Mobile App - EdTech Client D #286,Karthik Iyer,Titan,QA & Testing,Mobile App,2024-02-13,2024-09-29,2024-09-02,Delayed,Medium,278386.05,345371.91,100.0,High,EdTech Client D,14.0
+PRJ0287,Dashboard - Healthcare Client C #287,Aditya Verma,Nova,Cloud Infrastructure,Dashboard,2025-01-24,2025-04-12,2025-04-15,Completed,Medium,107489.21,96293.3,100.0,Medium,Healthcare Client C,6.0
+PRJ0288,Mobile App - Fintech Client A #288,Rohit Sharma,Nova,Cloud Infrastructure,Mobile App,2024-11-23,2025-06-02,2025-06-10,Completed,Critical,151180.2,157469.09,100.0,High,Fintech Client A,10.0
+PRJ0289,Dashboard - EdTech Client D #289,Suresh Kumar,Zenith,Cloud Infrastructure,Dashboard,2023-07-07,2024-05-05,2024-02-17,Delayed,Low,81907.46,90204.55,100.0,High,EdTech Client D,11.0
+PRJ0290,Internal Tool - Logistics Client E #290,Meera Krishnan,Falcon,AI/ML,Internal Tool,2024-12-03,2025-09-28,2025-07-19,Delayed,Medium,57577.54,71052.31,100.0,,Logistics Client E,5.0
+PRJ0291,API Integration - Fintech Client A #291,Suresh Kumar,Vega,Data & Analytics,API Integration,2024-01-06,2024-08-18,2024-07-10,Delayed,Medium,37131.54,45988.83,100.0,High,Fintech Client A,7.0
+PRJ0292,API Integration - BFSI Client F #292,Karthik Iyer,Vega,Mobile Apps,API Integration,2024-01-09,2024-10-04,2024-09-13,Delayed,Medium,66883.31,96426.27,100.0,Medium,BFSI Client F,9.0
+PRJ0293,Internal Tool - BFSI Client F #293,Karthik Iyer,Titan,QA & Testing,Internal Tool,2023-07-20,2023-10-01,2023-09-25,Delayed,High,345906.03,387637.14,100.0,Medium,BFSI Client F,15.0
+PRJ0294,Dashboard - Logistics Client E #294,Meera Krishnan,Comet,Customer Platforms,Dashboard,2023-11-04,2024-02-23,2024-02-06,Delayed,Low,228201.0,302644.11,100.0,Low,Logistics Client E,11.0
+PRJ0295,API Integration - Govt Client G #295,Rohit Sharma,Comet,Mobile Apps,API Integration,2023-09-24,2024-01-20,2024-01-24,Completed,Low,111104.41,102085.85,100.0,Low,Govt Client G,8.0
+PRJ0296,Cloud Migration - Retail Client B #296,Karthik Iyer,Nimbus,QA & Testing,Cloud Migration,2023-12-30,2024-04-14,2024-04-21,Completed,Low,165622.91,170248.18,100.0,Medium,Retail Client B,13.0
+PRJ0297,Internal Tool - Logistics Client E #297,Priya Menon,Nova,QA & Testing,Internal Tool,2024-10-08,2025-04-11,2025-04-12,Completed,Medium,123717.27,109168.11,100.0,Low,Logistics Client E,12.0
+PRJ0298,Cloud Migration - BFSI Client F #298,Sneha Reddy,Aurora,Cloud Infrastructure,Cloud Migration,2024-03-31,2024-11-08,2024-11-15,Completed,Critical,145612.77,135827.27,100.0,Low,BFSI Client F,8.0
+PRJ0299,Mobile App - EdTech Client D #299,Neha Kapoor,Atlas,QA & Testing,Mobile App,2023-08-04,2023-12-19,2023-10-15,Delayed,High,30322.93,38491.12,100.0,Medium,EdTech Client D,
+PRJ0300,Data Pipeline - EdTech Client D #300,Rohit Sharma,Orion,Customer Platforms,Data Pipeline,2023-03-28,2023-11-21,2023-10-11,Delayed,Medium,73039.73,89639.04,100.0,Low,EdTech Client D,9.0
+PRJ0088,ML Model - Healthcare Client C #88,Meera Krishnan,Zenith,AI/ML,ML Model,2024-11-27,2025-09-08,2025-07-08,Delayed,High,252985.28,319082.55,100.0,Medium,Healthcare Client C,12.0
+PRJ0015,Internal Tool - Healthcare Client C #15,Aditya Verma,Quantum,Customer Platforms,Internal Tool,2024-04-07,2024-12-14,2024-12-20,Completed,High,63106.27,58890.64,100.0,Low,Healthcare Client C,6.0
+PRJ0018,Dashboard - Retail Client B #18,Karthik Iyer,Quantum,AI/ML,Dashboard,2023-08-18,2024-04-19,2024-04-20,Completed,Critical,36210.49,36301.78,100.0,Medium,Retail Client B,4.0
+PRJ0183,Data Pipeline - Logistics Client E #183,Arjun Nair,Atlas,Engineering,Data Pipeline,2024-10-13,2025-06-21,2025-06-26,Completed,Critical,79592.89,74763.67,100.0,Low,Logistics Client E,4.0
+PRJ0167,Mobile App - Retail Client B #167,Rohit Sharma,Nimbus,Customer Platforms,Mobile App,2023-06-18,2023-12-30,2023-11-10,Delayed,Low,82227.66,118066.91,100.0,Low,Retail Client B,10.0
+PRJ0244,ML Model - Healthcare Client C #244,Suresh Kumar,Pulsar,QA & Testing,ML Model,2023-10-29,2024-04-17,2024-03-21,Delayed,Low,118097.13,158726.3,100.0,Medium,Healthcare Client C,5.0
